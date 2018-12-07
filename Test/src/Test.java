@@ -4,6 +4,8 @@ public class Test {
 //        new FizzBuzz().run();
 //        new Fibonacci().run();
 //        new Pyramid().run();
-        new Sort().run();
+//        new Sort().run();
+//        new Guess().run();
+        new Vowels().run();
     }
 }
