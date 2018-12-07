@@ -23,6 +23,7 @@ public class Pyramid {
             for(int z = 0; z < spaces; z++) {
                 System.out.print(" ");
             }
+
             spaces -= 1;
             hash += 2;
             System.out.print("\n");
